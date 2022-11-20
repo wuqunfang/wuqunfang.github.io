@@ -8,8 +8,6 @@ author_profile: true
 ===
 Wu, Qunfang, Louisa Kayah Williams, Ellen Simpson, and Bryan Semaan. "Conversations About Crime: Re-Enforcing and Fighting Against Platformed Racism on Reddit." Proceedings of the ACM on Human-Computer Interaction 6, no. CSCW1 (2022): 1-38. \[[LINK](https://dl.acm.org/doi/pdf/10.1145/3512901)\]
 
-2021
-===
 Wu, Qunfang, Yisi Sang, Dakuo Wang, and Zhicong Lu. "Malicious Selling Strategies in E-Commerce Livestream: A Case Study of Alibaba's Taobao and ByteDance's Douyin." arXiv preprint arXiv:2111.10491 (2021). \[[LINK](https://arxiv.org/pdf/2111.10491.pdf)\]
 
 2020

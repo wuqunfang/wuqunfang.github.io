@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Lecturer, Storytelling with Data, [IT Girls Program](https://ischool.syr.edu/high-school-program-introduces-range-of-stem-topics/), Syracuse University, Summer 2022.
+Guest Lecturer, Storytelling with Data, [IT Girls Program](https://ischool.syr.edu/high-school-program-introduces-range-of-stem-topics/), Syracuse University, Summer 2022.
 
 Instructor, Information Visualization, Syracuse University, Spring 2021. \[[Syllabus](/files/Syllabus_IST421_M003_Spring21.pdf)\]
 

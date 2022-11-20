@@ -10,7 +10,7 @@ Wu, Qunfang, Louisa Kayah Williams, Ellen Simpson, and Bryan Semaan. "Conversati
 
 2021
 ===
-Wu, Qunfang, Yisi Sang, Dakuo Wang, and Zhicong Lu. "Malicious Selling Strategies in Livestream Shopping: A Case Study of Alibaba's Taobao and ByteDance's Douyin." arXiv preprint arXiv:2111.10491 (2021). \[[LINK](https://arxiv.org/pdf/2111.10491.pdf)\]
+Wu, Qunfang, Yisi Sang, Dakuo Wang, and Zhicong Lu. "Malicious Selling Strategies in E-Commerce Livestream: A Case Study of Alibaba's Taobao and ByteDance's Douyin." arXiv preprint arXiv:2111.10491 (2021). \[[LINK](https://arxiv.org/pdf/2111.10491.pdf)\]
 
 2020
 ===

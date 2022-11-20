@@ -8,25 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-Qunfang Wu (Chinese: 武群芳) is a final-year doctoral student in the School of Information Studies at Syracuse University, advised by Dr. [Bryan Semaan](https://www.colorado.edu/faculty/semaan/). Before joining the program, she earned her B.S. in Information Management and System and M.S. in Information Science from Peking University of China in 2014 and 2016. She also minored in Economics in National School of Development at Peking University.
+Qunfang Wu (Chinese: 武群芳) received her Ph.D. in Information Science and Technology from the School of Information Studies at Syracuse University, advised by Dr. [Bryan Semaan](https://www.colorado.edu/faculty/semaan/). Before joining the program, she earned her B.S. in Information Management and System and M.S. in Information Science from Peking University in 2014 and 2016. She also minored in Economics in the National School of Development at Peking University.
 
-Qunfang’s research lies at the intersection of Human-Computer Interaction (HCI) and social justice. Her work strives to challenge “platformed racism” – how socio-technical systems enable the construction and propagation of racist ideologies – and advocates for anti-racist design perspectives and practices. She publishes at premier academic venues such as CHI, CSCW, and TOCHI. 
+Qunfang’s research lies at the intersection of Human-Computer Interaction (HCI) and social justice. She strives to challenge how socio-technical systems enable the construction and propagation of inequalities and advocate for design justice perspectives and practices. Her work has been published in places of the ACM Human-Computer Interaction (CSCW), the ACM Transactions on Social Computing (TSC), the ACM Conference on Human Factors in Computing Systems (CHI), and the International Conference on Digital Government Research (DG.O).
 
-Qunfang’s dissertation “Conversations About Crime: Re-Enforcing and Fighting Against Platformed Racism on Reddit” unpacked how Reddit users engaged in discourse frames that both re-enforce and fight against overt and covert racism and highlighted governance and moderation practices as color-blind on Reddit.
+Qunfang’s dissertation “Conversations About Crime: Re-Enforcing and Fighting Against Platformed Racism on Reddit” unpacked how Reddit users engaged in discourse frames that both re-enforce and fight against racism, and the interactions and moderation on Reddit were deeply mediated by and through overt and covert racist ideologies. The dissertation advances knowledge about how racism is afforded and constrained in online spaces and puts forth a call to action to disrupt racist design and governance.
+
 <!-- Her work has been supported by NSF, the Google Research Scholar Program, the AnalytiXIN Initiative, Yahoo! through the InMind project, and J.P. Morgan. -->
 
 <embed width='600' height='180' src='https://embed.howtopronounce.com/classic/en/Qunfang/31088432'>
 
 News
 ======
+My co-mentored undergraduate research project, “Understanding
+Female Entrepreneurs’ Resistance Behaviors in Algorithmic Systems” received the [SOURCE](https://research.syr.edu/source/about-the-source/) Fellowship at Syracuse University. \[11/15/2022\]
+
 I will teach <b>Storytelling with Data</b> for the [IT Girls Program](https://ischool.syr.edu/high-school-program-introduces-range-of-stem-topics/) this summer! \[06/05/2022\]
 
-I have succuessfully defended my dissertition work! \[05/09/2022\]
+I have successfully defended my dissertation work! \[05/09/2022\]
 
 My summer research proposal advised by Dr. EunJeong Cheon, <b>Toward a Design Framework for Digital Equality: A Literature Review of Racialized Socio-Technical Mechanisms in Online Platforms</b> has been funded by iSchool at Syracuse University! \[04/05/2022\]
 
-Our paper <b>Conversations About Crime: Re-Enforcing and Fighting Against Platformed Racism on Reddit</b> has been accpeted to CSCW2022! \[[LINK](https://dl.acm.org/doi/abs/10.1145/3512901)\] \[11/26/2021\]
-
+Our paper <b>Conversations About Crime: Re-Enforcing and Fighting Against Platformed Racism on Reddit</b> has been accepted to CSCW2022! \[[LINK](https://dl.acm.org/doi/abs/10.1145/3512901)\] \[11/26/2021\]
 
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).

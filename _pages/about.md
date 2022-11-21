@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Qunfang Wu (Chinese: 武群芳) received her Ph.D. in Information Science and Technology from the School of Information Studies at Syracuse University, advised by Dr. [Bryan Semaan](https://www.colorado.edu/faculty/semaan/). Before joining the program, she earned her B.S. in Information Management and System and M.S. in Information Science from Peking University in 2014 and 2016. She also minored in Economics in the National School of Development at Peking University.
+Qunfang Wu (Chinese: 武群芳) received her Ph.D. in Information Science and Technology from the School of Information Studies at Syracuse University, advised by Dr. [Bryan Semaan](https://www.colorado.edu/faculty/semaan/). She earned her B.S. in Information Management and System and M.S. in Information Science from Peking University in 2014 and 2016. She also minored in Economics in the National School of Development at Peking University.
 
 Qunfang’s research lies at the intersection of Human-Computer Interaction (HCI) and social justice. She strives to challenge how socio-technical systems enable the construction and propagation of inequalities and advocate for design justice perspectives and practices. Her work has been published in places of the ACM Human-Computer Interaction (CSCW), the ACM Transactions on Social Computing (TSC), the ACM Conference on Human Factors in Computing Systems (CHI), and the International Conference on Digital Government Research (DG.O).
 

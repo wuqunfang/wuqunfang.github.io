@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Qunfang Wu (Chinese: 武群芳) received her Ph.D. in Information Science and Technology from the School of Information Studies at Syracuse University, advised by Dr. [Bryan Semaan](https://www.colorado.edu/faculty/semaan/). She earned her B.S. in Information Management and System and M.S. in Information Science from Peking University in 2014 and 2016. She also minored in Economics in the National School of Development at Peking University.
+Qunfang Wu (Chinese: 武群芳) is a postdoctoral researcher under the mentorship of Dr. [Deen Freelon](http://dfreelon.org/) at the [Center for Information, Technology, and Public Life (CITAP)](https://citap.unc.edu/) at the University of North Carolina at Chapel Hill. She will join the [Inequality in America Initiative](https://inequalityinamerica.fas.harvard.edu/) at Harvard University as a Postdoctoral Fellow in the fall of 2023.
+
+Qunfang received her Ph.D. in Information Science and Technology from the School of Information Studies at Syracuse University, advised by Dr. [Bryan Semaan](https://www.colorado.edu/faculty/semaan/). She earned her B.S. in Information Management and System and M.S. in Information Science from Peking University in 2014 and 2016. She also minored in Economics in the National School of Development at Peking University.
 
 Qunfang’s research lies at the intersection of Human-Computer Interaction (HCI) and social justice. She strives to challenge how socio-technical systems enable the construction and propagation of inequalities and advocate for design justice perspectives and practices. Her work has been published in places of the ACM Human-Computer Interaction (CSCW), the ACM Transactions on Social Computing (TSC), the ACM Conference on Human Factors in Computing Systems (CHI), and the International Conference on Digital Government Research (DG.O).
 
@@ -20,6 +22,8 @@ Qunfang’s dissertation “Conversations About Crime: Re-Enforcing and Fighting
 
 News
 ======
+I will attend the [2023 CSST Summer Research Institute](https://sociotech.net/2023-csst-summer-research-institute-boulder/) from June 26-30, 2023 at Estes Park, CO. \[04/21/2023\]
+
 My co-mentored undergraduate research project, “Understanding
 Female Entrepreneurs’ Resistance Behaviors in Algorithmic Systems” received the [SOURCE](https://research.syr.edu/source/about-the-source/) Fellowship at Syracuse University. \[11/15/2022\]
 

@@ -4,6 +4,8 @@ title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
+Please refer to my CV for the most recent updates on publications.
+
 2022
 ===
 Wu, Qunfang, Louisa Kayah Williams, Ellen Simpson, and Bryan Semaan. "Conversations About Crime: Re-Enforcing and Fighting Against Platformed Racism on Reddit." Proceedings of the ACM on Human-Computer Interaction 6, no. CSCW1 (2022): 1-38. \[[LINK](https://dl.acm.org/doi/pdf/10.1145/3512901)\]

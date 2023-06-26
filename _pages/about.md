@@ -22,6 +22,8 @@ Qunfang’s dissertation “Conversations About Crime: Re-Enforcing and Fighting
 
 News
 ======
+Join us for the [Symposium on Misinformation & Marginalization](https://citap.unc.edu/news/call-for-papers-symposium-on-misinformation-marginalization/), taking place at the University of North Carolina at Chapel Hill on October 16, 2023. Paper proposals is due on June 30. \[05/30/2023\]
+
 I will attend the [2023 CSST Summer Research Institute](https://sociotech.net/2023-csst-summer-research-institute-boulder/) from June 26-30, 2023 at Estes Park, CO. \[04/21/2023\]
 
 My co-mentored undergraduate research project, “Understanding

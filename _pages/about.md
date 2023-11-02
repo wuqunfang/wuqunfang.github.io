@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Qunfang Wu (Chinese: 武群芳) is a postdoctoral researcher under the mentorship of Dr. [Deen Freelon](http://dfreelon.org/) at the [Center for Information, Technology, and Public Life (CITAP)](https://citap.unc.edu/) at the University of North Carolina at Chapel Hill. She will join the [Inequality in America Initiative](https://inequalityinamerica.fas.harvard.edu/) at Harvard University as a Postdoctoral Fellow in the fall of 2023.
+Qunfang Wu (Chinese: 武群芳) is a Postdoc Fellow at the [Inequality in America Initiative](https://inequalityinamerica.fas.harvard.edu/) at Harvard University. Before that, she was a postdoctorial researcher under the mentorship of Dr. [Deen Freelon](http://dfreelon.org/) at the [Center for Information, Technology, and Public Life (CITAP)](https://citap.unc.edu/) at the University of North Carolina at Chapel Hill. 
 
 Qunfang received her Ph.D. in Information Science and Technology from the School of Information Studies at Syracuse University, advised by Dr. [Bryan Semaan](https://www.colorado.edu/faculty/semaan/). She earned her B.S. in Information Management and System and M.S. in Information Science from Peking University in 2014 and 2016. She also minored in Economics in the National School of Development at Peking University.
 

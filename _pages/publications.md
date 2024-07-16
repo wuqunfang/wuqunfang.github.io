@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 Please refer to my CV for the most recent updates on publications.
+
 2024
 ===
 Wu, Qunfang, Tayara Romero, and Bryan Semaan. "Negotiating Sociotechnical Boundaries: Moderation Work to Counter Racist Attacks in Online Communities." In Proceedings of the CHI Conference on Human Factors in Computing Systems, pp. 1-15. 2024. \[[LINK](https://dl.acm.org/doi/full/10.1145/3613904.3642688)\]

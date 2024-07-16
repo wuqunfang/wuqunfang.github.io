@@ -5,12 +5,25 @@ permalink: /publications/
 author_profile: true
 ---
 Please refer to my CV for the most recent updates on publications.
+2024
+===
+Wu, Qunfang, Tayara Romero, and Bryan Semaan. "Negotiating Sociotechnical Boundaries: Moderation Work to Counter Racist Attacks in Online Communities." In Proceedings of the CHI Conference on Human Factors in Computing Systems, pp. 1-15. 2024. \[[LINK](https://dl.acm.org/doi/full/10.1145/3613904.3642688)\]
+
+Qin, Yigang, Weilun Duan, Qunfang Wu, and Zhicong Lu. "Dismantling Gender Blindness in Online Discussion of a Crime/Gender Dichotomy." Proceedings of the ACM on Human-Computer Interaction 8, no. CSCW1 (2024): 1-31. \[[LINK](https://dl.acm.org/doi/abs/10.1145/3653686)\]
+
+Freelon, Deen, Meredith L. Pruden, Daniel Malmer, Qunfang Wu, Yiping Xia, Daniel Johnson, Emily Chen, and Andrew Crist. "What's in your PIE? Understanding the contents of personalized information environments with PIEGraph." Journal of the Association for Information Science and Technology (2024). \[[LINK](https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.24869)\]
+
+2023
+===
+Wu, Qunfang, and Bryan Semaan. "" How Do You Quantify How Racist Something Is?": Color-Blind Moderation in Decentralized Governance." Proceedings of the ACM on Human-Computer Interaction 7, no. CSCW2 (2023): 1-27. \[[LINK](https://dl.acm.org/doi/abs/10.1145/3610030)\]
+
+Wu, Qunfang, and Jeff Hemsley. "Hyper‐Local Fear of Crime: Identifying Linguistic Cues of Fear in Crime Talk on Reddit." Proceedings of the Association for Information Science and Technology 60, no. 1 (2023): 456-468. \[[LINK](https://asistdl.onlinelibrary.wiley.com/doi/10.1002/pra2.803)\]
+
+Wu, Qunfang, Yisi Sang, Dakuo Wang, and Zhicong Lu. "Malicious selling strategies in livestream E-commerce: A case study of alibaba’s taobao and ByteDance’s TikTok." ACM Transactions on Computer-Human Interaction 30, no. 3 (2023): 1-29. \[[LINK](https://dl.acm.org/doi/abs/10.1145/3577199)\]
 
 2022
 ===
 Wu, Qunfang, Louisa Kayah Williams, Ellen Simpson, and Bryan Semaan. "Conversations About Crime: Re-Enforcing and Fighting Against Platformed Racism on Reddit." Proceedings of the ACM on Human-Computer Interaction 6, no. CSCW1 (2022): 1-38. \[[LINK](https://dl.acm.org/doi/pdf/10.1145/3512901)\]
-
-Wu, Qunfang, Yisi Sang, Dakuo Wang, and Zhicong Lu. "Malicious Selling Strategies in E-Commerce Livestream: A Case Study of Alibaba's Taobao and ByteDance's Douyin." arXiv preprint arXiv:2111.10491 (2021). \[[LINK](https://arxiv.org/pdf/2111.10491.pdf)\]
 
 2020
 ===

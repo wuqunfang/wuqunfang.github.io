@@ -9,6 +9,8 @@ Please refer to my CV for the most recent updates on publications.
 
 2024
 ===
+Qunfang Wu and Lu Xian. “Designing an Intervention Tool for End-User Algorithm Audits in Personalized Recommendation Systems”. In: The 7th FAccTRec Workshop: Responsible Recommendation. 2024. \[[LINK](https://arxiv.org/abs/2409.13176)\]
+
 Wu, Qunfang, Tayara Romero, and Bryan Semaan. "Negotiating Sociotechnical Boundaries: Moderation Work to Counter Racist Attacks in Online Communities." In Proceedings of the CHI Conference on Human Factors in Computing Systems, pp. 1-15. 2024. \[[LINK](https://dl.acm.org/doi/full/10.1145/3613904.3642688)\]
 
 Qin, Yigang, Weilun Duan, Qunfang Wu, and Zhicong Lu. "Dismantling Gender Blindness in Online Discussion of a Crime/Gender Dichotomy." Proceedings of the ACM on Human-Computer Interaction 8, no. CSCW1 (2024): 1-31. \[[LINK](https://dl.acm.org/doi/abs/10.1145/3653686)\]

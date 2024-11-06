@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-<b>[Storytelling with Data, IT Girls Program](https://ischool.syr.edu/high-school-program-introduces-range-of-stem-topics/)</b>
+<b>[Storytelling with Data, IT Girls Program](https://ischool.syr.edu/academics/new-it-girls-empowering-women-in-technology/)</b>
 
 Lecturer, Syracuse University, Summer 2022.
 

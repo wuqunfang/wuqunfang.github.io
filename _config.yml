@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Qunfang Wu"
 title_separator          : "-"
-name                     : &name "Qunfang&#10;Wu"
+name                     : &name 
 description              : &description "personal description"
 url                      : https://www.qunfangwu.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Qunfang Wu"
+  name             : "Qunfang&#10;Wu"
   avatar           : "qunfangwu_1.jpg"
-  bio              : "Pronouns: She/Her"
+  bio              : "Pronouns: she/her"
   location         : "Cambridge, Massachusetts"
   employer         : #"Ph.D. Candidate, Syracuse University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

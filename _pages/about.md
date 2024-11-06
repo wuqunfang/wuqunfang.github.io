@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Qunfang Wu (Chinese: 武群芳) is a Postdoc Fellow at the [Inequality in America Initiative](https://inequalityinamerica.fas.harvard.edu/) at Harvard University, and a 2024-2025 fellow at Harvard’s [Berkman Klein Center for Internet and Society](https://cyber.harvard.edu/). Before that, she was a postdoctorial researcher under the mentorship of Dr. [Deen Freelon](http://dfreelon.org/) at the [Center for Information, Technology, and Public Life (CITAP)](https://citap.unc.edu/) at the University of North Carolina at Chapel Hill. 
+Qunfang Wu (武群芳) is a Postdoc Fellow at the [Inequality in America Initiative](https://inequalityinamerica.fas.harvard.edu/) at Harvard University and a 2024-2025 fellow at Harvard’s [Berkman Klein Center for Internet and Society](https://cyber.harvard.edu/). Before that, she was a postdoctorial researcher under the mentorship of Dr. [Deen Freelon](http://dfreelon.org/) at the [Center for Information, Technology, and Public Life (CITAP)](https://citap.unc.edu/) at the University of North Carolina at Chapel Hill. 
 
 Qunfang received her Ph.D. in Information Science and Technology from the School of Information Studies at Syracuse University, advised by Dr. [Bryan Semaan](https://www.colorado.edu/faculty/semaan/). She earned her B.S. in Information Management and System and M.S. in Information Science from Peking University in 2014 and 2016. She also minored in Economics in the National School of Development at Peking University.
 
@@ -22,7 +22,15 @@ Qunfang’s dissertation “Conversations About Crime: Re-Enforcing and Fighting
 
 News
 ======
-Join us for the [Symposium on Misinformation & Marginalization](https://citap.unc.edu/news/call-for-papers-symposium-on-misinformation-marginalization/), taking place at the University of North Carolina at Chapel Hill on October 16, 2023. Paper proposals is due on June 30. \[05/30/2023\]
+\[11/08/2024\] I am attending CSCW 2024 in San Jose, Costa Rica. Check out our paper, [Dismantling Gender Blindness in Online Discussion of a Crime/Gender Dichotomy](https://dl.acm.org/doi/abs/10.1145/3653686), which received a DEI recognition!
+
+\[10/14/2024\] I am presenting our paper, [Designing an Intervention Tool for End-User Algorithm Audits in Personalized Recommendation Systems](https://dl.acm.org/doi/full/10.1145/3613904.3642688) at [the 7th FAccTRec Workshop: Responsible Recommendation](https://facctrec.github.io/facctrec2024/).
+
+\[09/19/2024\] Very excited to join the Berkman Klein Center as a [2024-25 Fellow](https://cyber.harvard.edu/people/qunfang-wu)!
+
+\[05/09/2024\] I will present our papers at CHI 2025: [Negotiating Sociotechnical Boundaries: Moderation Work to Counter Racist Attacks in Online Communities](https://dl.acm.org/doi/full/10.1145/3613904.3642688) and [Malicious selling strategies in livestream E-commerce: A case study of alibaba’s taobao and ByteDance’s TikTok](https://dl.acm.org/doi/abs/10.1145/3577199). 
+
+<!-- Join us for the [Symposium on Misinformation & Marginalization](https://citap.unc.edu/news/call-for-papers-symposium-on-misinformation-marginalization/), taking place at the University of North Carolina at Chapel Hill on October 16, 2023. Paper proposals is due on June 30. \[05/30/2023\]
 
 I will attend the [2023 CSST Summer Research Institute](https://sociotech.net/2023-csst-summer-research-institute-boulder/) from June 26-30, 2023 at Estes Park, CO. \[04/21/2023\]
 
@@ -38,7 +46,7 @@ My summer research proposal advised by Dr. EunJeong Cheon, <b>Toward a Design Fr
 Our paper <b>Conversations About Crime: Re-Enforcing and Fighting Against Platformed Racism on Reddit</b> has been accepted to CSCW2022! \[[LINK](https://dl.acm.org/doi/abs/10.1145/3512901)\] \[11/26/2021\]
 
 
-<!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
 ======

@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Selected Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
+<b>Selected Publications</b>
+
 Please refer to my [Google Scholar](https://scholar.google.com/citations?user=8m1Q-voAAAAJ&hl=en&oi=ao) for the most recent updates on publications.
-
-
 
 
 Wu, Qunfang and Xian, Lu. “Designing an Intervention Tool for End-User Algorithm Audits in Personalized Recommendation Systems”. In: The 7th FAccTRec Workshop: Responsible Recommendation. 2024. [🔗](https://arxiv.org/abs/2409.13176) <!--[📑](https://arxiv.org/abs/2409.13176)-->

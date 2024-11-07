@@ -11,24 +11,24 @@ Methodologically, I employ both qualitative (e.g., interview, ethnography, criti
 
 My research engages with critical studies and theories, such as new racism, intersectionality, feminism, and design justice. I use these frameworks as productive lenses for unpacking power dynamics and preventing the perpetuation of power imbalances in research activities. 
 
-<div class="project">
-    <img src="/images/reddit.jpg" alt="" style="width: 150px; height: 150px; object-fit: cover; margin-right: 20px; float: left;">
+<div class="project" style="margin-bottom: 30px;">
+    <img src="/images/reddit.jpg" alt="" style="width: 200px; height: 150px; object-fit: cover; margin-right: 20px; float: left;">
     <div class="project-info">
         <h3>Countering “Platformed Racism” in Online Communities</h3>
         <p>My dissertation work unpacked how Reddit users engaged in discourse frames that both reinforce and fight against racism, and the interactions and moderation on Reddit were deeply mediated by and through overt and covert racist ideologies.</p>
     </div>
 </div>
 
-<div class="project">
-    <img src="/images/reddit.jpg" alt="" style="width: 150px; height: 150px; object-fit: cover; margin-right: 20px; float: left;">
+<div class="project" style="margin-bottom: 30px;">
+    <img src="/images/resistance.jpg" alt="" style="width: 200px; height: 150px; object-fit: cover; margin-right: 20px; float: left;">
     <div class="project-info">
         <h3>Designing for Individual and Institutional Algorithmic Resistance</h3>
         <p>My research documents diverse forms and scales of resistance, ranging from individual to institutional levels. These works contribute to epistemic resistance, including empirical knowledge and design principles, that inform how resistance can be designed and adapted to more socio-technical systems.</p>
     </div>
 </div>
 
-<div class="project">
-    <img src="/images/reddit.jpg" alt="" style="width: 150px; height: 150px; object-fit: cover; margin-right: 20px; float: left;">
+<div class="project" style="margin-bottom: 30px;">
+    <img src="/images/feed.jpg" alt="" style="width: 200px; height: 150px; object-fit: cover; margin-right: 20px; float: left;">
     <div class="project-info">
         <h3>Supporting End-User Algorithm Audits</h3>
         <p>Our team has developed an intervention tool, MapMyFeed, to assist everyday users in navigating the auditing process. The tool offers educational resources to help users understand the mechanics of algorithmic recommendations and enables them to identify and report problematic or biased algorithmic behaviors. Users' proactive involvement fosters algorithmic literacy and transparency and more equitable digital environments.</p>

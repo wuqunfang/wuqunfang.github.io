@@ -15,7 +15,7 @@ My research engages with critical studies and theories, such as new racism, inte
     <img src="/images/reddit.jpg" alt="" style="width: 200px; height: 150px; object-fit: cover; margin-right: 20px; float: left;">
     <div class="project-info">
         <h3>Countering “Platformed Racism” in Online Communities</h3>
-        <p>My dissertation work unpacked how Reddit users engaged in discourse frames that both reinforce and fight against racism, and the interactions and moderation on Reddit were deeply mediated by and through overt and covert racist ideologies.</p>
+        <p>My dissertation work unpacked how Reddit users engaged in discourse frames that both reinforce and fight against racism, and the interactions and moderation on Reddit were deeply mediated by and through overt and covert racist ideologies. The findings offer key design implications for developing moderation tools and governance models that can better address racism in online spaces.</p>
     </div>
 </div>
 
@@ -23,7 +23,7 @@ My research engages with critical studies and theories, such as new racism, inte
     <img src="/images/resistance.jpg" alt="" style="width: 200px; height: 150px; object-fit: cover; margin-right: 20px; float: left;">
     <div class="project-info">
         <h3>Designing for Individual and Institutional Algorithmic Resistance</h3>
-        <p>My research documents diverse forms and scales of resistance, ranging from individual to institutional levels. These works contribute to epistemic resistance, including empirical knowledge and design principles, that inform how resistance can be designed and adapted to more socio-technical systems.</p>
+        <p>My recent research has documented diverse forms and scales of resistance, ranging from individual to institutional levels. The work contributes to epistemic resistance, including empirical knowledge and design principles, that inform how resistance can be designed and adapted to more socio-technical systems.</p>
     </div>
 </div>
 

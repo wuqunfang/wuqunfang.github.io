@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "How To Say My Name"
+title: ""
 permalink: /pronounce/
 author_profile: true
 ---

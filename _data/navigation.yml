@@ -22,7 +22,7 @@ main:
     url: /files/CV_Qunfang_Wu.pdf
 
   - title: "How to Say My Name"
-  url: "https://www.howtopronounce.com/qunfang"
+  url: /pronounce/ 
     
   # - title: "Guide"
   #   url: /markdown/

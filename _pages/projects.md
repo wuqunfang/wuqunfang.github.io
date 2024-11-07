@@ -7,7 +7,9 @@ author_profile: true
 
 I see myself as a technological activist researcher, dedicated to empowering marginalized populations by including their voices in the understanding, critique, design, and development of equitable technologies. 
 
-Methodologically, I employ both qualitative (e.g., interview, ethnography, critical discourse analysis) and quantitative methods (e.g., survey, regression, topic modeling) to understand user behaviors across challenging contexts such as public safety, online racist discourses, and deceptive design in livestreaming. I also incorporate system design methods and principles from HCI to further inform my work. My research engages with critical studies and theories, such as new racism, intersectionality, feminism, and design justice. I use these frameworks as productive lenses for unpacking power dynamics and preventing the perpetuation of power imbalances in research activities. 
+Methodologically, I employ both qualitative (e.g., interview, ethnography, critical discourse analysis) and quantitative methods (e.g., survey, regression, topic modeling) to understand user behaviors across challenging contexts such as public safety, online racist discourses, and deceptive design in livestreaming. I also incorporate system design methods and principles from HCI to further inform my work. 
+
+My research engages with critical studies and theories, such as new racism, intersectionality, feminism, and design justice. I use these frameworks as productive lenses for unpacking power dynamics and preventing the perpetuation of power imbalances in research activities. 
 
 ### Countering “Platformed Racism” in Online Communities
 

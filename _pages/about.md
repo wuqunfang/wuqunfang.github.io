@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Hi, I'm Qunfang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Qunfang Wu is a Postdoc Fellow at the [Inequality in America Initiative](https://inequalityinamerica.fas.harvard.edu/) at Harvard University and a 2024-2025 fellow at Harvard’s [Berkman Klein Center for Internet and Society](https://cyber.harvard.edu/). Before that, she was a postdoctorial researcher under the mentorship of Dr. [Deen Freelon](http://dfreelon.org/) at the [Center for Information, Technology, and Public Life (CITAP)](https://citap.unc.edu/) at the University of North Carolina at Chapel Hill. 
+I am a Postdoc Fellow at the [Inequality in America Initiative](https://inequalityinamerica.fas.harvard.edu/) at Harvard University and a 2024-2025 fellow at Harvard’s [Berkman Klein Center for Internet and Society](https://cyber.harvard.edu/). Before that, I was a postdoctorial researcher under the mentorship of Dr. [Deen Freelon](http://dfreelon.org/) at the [Center for Information, Technology, and Public Life (CITAP)](https://citap.unc.edu/) at the University of North Carolina at Chapel Hill. 
 
-Qunfang received her Ph.D. in Information Science and Technology from the School of Information Studies at Syracuse University, advised by Dr. [Bryan Semaan](https://www.colorado.edu/faculty/semaan/). She earned her B.S. in Information Management and System and M.S. in Information Science from Peking University in 2014 and 2016. She also minored in Economics in the National School of Development at Peking University.
+I received my Ph.D. in Information Science and Technology from the School of Information Studies at Syracuse University, advised by Dr. [Bryan Semaan](https://www.colorado.edu/faculty/semaan/). I earned my B.S. in Information Management and System and M.S. in Information Science from Peking University in 2014 and 2016. I also minored in Economics in the National School of Development at Peking University.
 
-Qunfang’s research spans the areas of Human-Computer Interaction (HCI), social justice, and human-centered AI. She strives to challenge how socio-technical systems are built to enable and propagate inequalities while advocating for design justice perspectives and practices that reshape these systems. Her work has been published in places of the ACM Conference on Human Factors in Computing Systems (CHI), the ACM Human-Computer Interaction (CSCW), the ACM Transactions on Computer-Human Interaction (TOCHI), the ACM Transactions on Social Computing (TSC), and the International Conference on Digital Government Research (DG.O).
+My research spans the areas of Human-Computer Interaction (HCI), social justice, and human-centered AI. My work strives to challenge how socio-technical systems are built to enable and propagate inequalities while advocating for design justice perspectives and practices that reshape these systems. My work has been published in places of the ACM Conference on Human Factors in Computing Systems (CHI), the ACM Human-Computer Interaction (CSCW), the ACM Transactions on Computer-Human Interaction (TOCHI), the ACM Transactions on Social Computing (TSC), and the International Conference on Digital Government Research (DG.O).
 
-Qunfang’s dissertation “Conversations About Crime: Re-Enforcing and Fighting Against Platformed Racism on Reddit” unpacked how Reddit users engaged in discourse frames that both re-enforce and fight against racism, and the interactions and moderation on Reddit were deeply mediated by and through overt and covert racist ideologies. Her recent work is documenting diverse forms and scales of resistance, ranging from individual to institutional levels, and re-designing equitable systems that support end-user algorithm audits and promote transparent AI. Overall, her work contributes to epistemic resistance—providing empirical knowledge and design principles that inform how resistance can be designed and adapted across various contexts for researchers, practitioners, and policy makers.
+<!-- Qunfang’s dissertation “Conversations About Crime: Re-Enforcing and Fighting Against Platformed Racism on Reddit” unpacked how Reddit users engaged in discourse frames that both re-enforce and fight against racism, and the interactions and moderation on Reddit were deeply mediated by and through overt and covert racist ideologies. Her recent work is documenting diverse forms and scales of resistance, ranging from individual to institutional levels, and re-designing equitable systems that support end-user algorithm audits and promote transparent AI. Overall, her work contributes to epistemic resistance—providing empirical knowledge and design principles that inform how resistance can be designed and adapted across various contexts for researchers, practitioners, and policy makers.<!--
 
-<!-- Her work has been supported by NSF, the Google Research Scholar Program, the AnalytiXIN Initiative, Yahoo! through the InMind project, and J.P. Morgan. -->
+<!-- Her work has been supported by NSF, the Google Research Scholar Program, the AnalytiXIN Initiative, Yahoo! through the InMind project, and J.P. Morgan.<!--
 
 News
 ======

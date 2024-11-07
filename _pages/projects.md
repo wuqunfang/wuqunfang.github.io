@@ -15,7 +15,7 @@ My research engages with critical studies and theories, such as new racism, inte
     <img src="/images/reddit.jpg" alt="" style="width: 200px; height: 150px; object-fit: cover; margin-right: 20px; float: left;">
     <div class="project-info">
         <h3>Countering “Platformed Racism” in Online Communities</h3>
-        <p>My dissertation work unpacked how Reddit users engaged in discourse frames that both reinforce and fight against racism, and the interactions and moderation on Reddit were deeply mediated by and through overt and covert racist ideologies. The findings offer key design implications for developing moderation tools and governance models that can better address racism in online spaces.</p>
+        <p>My dissertation work unpacked how Reddit users engaged in discourse frames that both reinforce and fight against racism, and the interactions and moderation on Reddit were deeply mediated by overt and covert racist ideologies. The findings offer design implications for developing moderation tools and governance models that can better address racism in online spaces.</p>
     </div>
 </div>
 

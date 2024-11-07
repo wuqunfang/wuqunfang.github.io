@@ -9,7 +9,7 @@ author_profile: true
 Please refer to my [Google Scholar](https://scholar.google.com/citations?user=8m1Q-voAAAAJ&hl=en&oi=ao) for the most recent updates on publications.
 
 
-Wu, Qunfang and Xian, Lu. “Designing an Intervention Tool for End-User Algorithm Audits in Personalized Recommendation Systems”. In: The 7th FAccTRec Workshop: Responsible Recommendation. 2024. [🔗](https://arxiv.org/abs/2409.13176) <!--[📑](https://arxiv.org/abs/2409.13176)-->
+Wu, Qunfang and Lu Xian. “Designing an Intervention Tool for End-User Algorithm Audits in Personalized Recommendation Systems”. In: The 7th FAccTRec Workshop: Responsible Recommendation. 2024. [🔗](https://arxiv.org/abs/2409.13176) <!--[📑](https://arxiv.org/abs/2409.13176)-->
 
 Wu, Qunfang, Tayara Romero, and Bryan Semaan. "Negotiating Sociotechnical Boundaries: Moderation Work to Counter Racist Attacks in Online Communities." In Proceedings of the CHI Conference on Human Factors in Computing Systems, pp. 1-15. 2024. [🔗](https://dl.acm.org/doi/full/10.1145/3613904.3642688)
 
@@ -17,7 +17,7 @@ Qin, Yigang, Weilun Duan, Qunfang Wu, and Zhicong Lu. "Dismantling Gender Blindn
 
 Freelon, Deen, Meredith L. Pruden, Daniel Malmer, Qunfang Wu, Yiping Xia, Daniel Johnson, Emily Chen, and Andrew Crist. "What's in your PIE? Understanding the contents of personalized information environments with PIEGraph." Journal of the Association for Information Science and Technology (2024). [🔗](https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.24869)
 
-Wu, Qunfang, and Bryan Semaan. "" How Do You Quantify How Racist Something Is?": Color-Blind Moderation in Decentralized Governance." Proceedings of the ACM on Human-Computer Interaction 7, no. CSCW2 (2023): 1-27. [🔗](https://dl.acm.org/doi/abs/10.1145/3610030)
+Wu, Qunfang, and Bryan Semaan. " "How Do You Quantify How Racist Something Is?": Color-Blind Moderation in Decentralized Governance." Proceedings of the ACM on Human-Computer Interaction 7, no. CSCW2 (2023): 1-27. [🔗](https://dl.acm.org/doi/abs/10.1145/3610030)
 
 Wu, Qunfang, and Jeff Hemsley. "Hyper‐Local Fear of Crime: Identifying Linguistic Cues of Fear in Crime Talk on Reddit." Proceedings of the Association for Information Science and Technology 60, no. 1 (2023): 456-468. [🔗](https://asistdl.onlinelibrary.wiley.com/doi/10.1002/pra2.803)
 

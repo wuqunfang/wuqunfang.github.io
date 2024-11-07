@@ -9,7 +9,7 @@ Please refer to my [Google Scholar](https://scholar.google.com/citations?user=8m
 
 
 
-Qunfang Wu and Lu Xian. “Designing an Intervention Tool for End-User Algorithm Audits in Personalized Recommendation Systems”. In: The 7th FAccTRec Workshop: Responsible Recommendation. 2024. [🔗](https://arxiv.org/abs/2409.13176) <!--[📑](https://arxiv.org/abs/2409.13176)-->
+Wu, Qunfang and Xian, Lu. “Designing an Intervention Tool for End-User Algorithm Audits in Personalized Recommendation Systems”. In: The 7th FAccTRec Workshop: Responsible Recommendation. 2024. [🔗](https://arxiv.org/abs/2409.13176) <!--[📑](https://arxiv.org/abs/2409.13176)-->
 
 Wu, Qunfang, Tayara Romero, and Bryan Semaan. "Negotiating Sociotechnical Boundaries: Moderation Work to Counter Racist Attacks in Online Communities." In Proceedings of the CHI Conference on Human Factors in Computing Systems, pp. 1-15. 2024. [🔗](https://dl.acm.org/doi/full/10.1145/3613904.3642688)
 

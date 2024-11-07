@@ -24,7 +24,7 @@ News
 
 \[10/14/2024\] I am presenting our paper, [Designing an Intervention Tool for End-User Algorithm Audits in Personalized Recommendation Systems](https://arxiv.org/abs/2409.13176) at [the 7th FAccTRec Workshop: Responsible Recommendation](https://facctrec.github.io/facctrec2024/).
 
-\[09/19/2024\] Very excited to join the Berkman Klein Center as a [2024-25 Fellow](https://cyber.harvard.edu/people/qunfang-wu)!
+\[09/19/2024\] Very excited to join the Berkman Klein Center for Internet & Society at Harvard as a [2024-25 Fellow](https://cyber.harvard.edu/people/qunfang-wu)!
 
 \[05/09/2024\] I will present our papers at CHI 2025: [Negotiating Sociotechnical Boundaries: Moderation Work to Counter Racist Attacks in Online Communities](https://dl.acm.org/doi/full/10.1145/3613904.3642688) and [Malicious selling strategies in livestream E-commerce: A case study of alibaba’s taobao and ByteDance’s TikTok](https://dl.acm.org/doi/abs/10.1145/3577199). 
 

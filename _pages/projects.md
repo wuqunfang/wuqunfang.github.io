@@ -23,7 +23,7 @@ My research engages with critical studies and theories, such as new racism, inte
     <img src="/images/resistance.jpg" alt="" style="width: 200px; height: 150px; object-fit: cover; margin-right: 20px; float: left;">
     <div class="project-info">
         <h3>Designing for Individual and Institutional Algorithmic Resistance</h3>
-        <p>My recent research has documented diverse forms and scales of resistance, ranging from individual to institutional levels. The work contributes to epistemic resistance, including empirical knowledge and design principles, that inform how resistance can be designed and adapted to more socio-technical systems.</p>
+        <p>My recent research has documented diverse forms and scales of resistance, ranging from individual to institutional levels, in algorithm-amplified systems. The work contributes to epistemic resistance, including empirical knowledge and design principles, that inform how resistance can be designed and adapted to more socio-technical systems.</p>
     </div>
 </div>
 

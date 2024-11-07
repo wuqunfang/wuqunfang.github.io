@@ -14,7 +14,7 @@ Qunfang received her Ph.D. in Information Science and Technology from the School
 
 Qunfang’s research spans the areas of Human-Computer Interaction (HCI), social justice, and human-centered AI. She strives to challenge how socio-technical systems are built to enable and propagate inequalities while advocating for design justice perspectives and practices that reshape these systems. Her work has been published in places of the ACM Conference on Human Factors in Computing Systems (CHI), the ACM Human-Computer Interaction (CSCW), the ACM Transactions on Computer-Human Interaction (TOCHI), the ACM Transactions on Social Computing (TSC), and the International Conference on Digital Government Research (DG.O).
 
-Qunfang’s dissertation “Conversations About Crime: Re-Enforcing and Fighting Against Platformed Racism on Reddit” unpacked how Reddit users engaged in discourse frames that both re-enforce and fight against racism, and the interactions and moderation on Reddit were deeply mediated by and through overt and covert racist ideologies. Her recent work is documenting diverse forms and scales of resistance, ranging from individual to institutional levels, and re-designing equitable systems that support end-user algorithm audits and promote transparent AI. Overall, her work contributes to epistemic resistance——providing empirical knowledge and design principles that inform how resistance can be designed and adapted across various contexts for researchers, practitioners, and policy makers.
+Qunfang’s dissertation “Conversations About Crime: Re-Enforcing and Fighting Against Platformed Racism on Reddit” unpacked how Reddit users engaged in discourse frames that both re-enforce and fight against racism, and the interactions and moderation on Reddit were deeply mediated by and through overt and covert racist ideologies. Her recent work is documenting diverse forms and scales of resistance, ranging from individual to institutional levels, and re-designing equitable systems that support end-user algorithm audits and promote transparent AI. Overall, her work contributes to epistemic resistance—providing empirical knowledge and design principles that inform how resistance can be designed and adapted across various contexts for researchers, practitioners, and policy makers.
 
 <!-- Her work has been supported by NSF, the Google Research Scholar Program, the AnalytiXIN Initiative, Yahoo! through the InMind project, and J.P. Morgan. -->
 
@@ -22,9 +22,9 @@ Qunfang’s dissertation “Conversations About Crime: Re-Enforcing and Fighting
 
 News
 ======
-\[11/08/2024\] I am attending CSCW 2024 in San Jose, Costa Rica. Check out our paper, [Dismantling Gender Blindness in Online Discussion of a Crime/Gender Dichotomy](https://dl.acm.org/doi/abs/10.1145/3653686), which received a DEI recognition!
+\[11/06/2024\] I am attending CSCW 2024 in San Jose, Costa Rica. Check out our paper, [Dismantling Gender Blindness in Online Discussion of a Crime/Gender Dichotomy](https://dl.acm.org/doi/abs/10.1145/3653686), which received a DEI recognition!
 
-\[10/14/2024\] I am presenting our paper, [Designing an Intervention Tool for End-User Algorithm Audits in Personalized Recommendation Systems](https://dl.acm.org/doi/full/10.1145/3613904.3642688) at [the 7th FAccTRec Workshop: Responsible Recommendation](https://facctrec.github.io/facctrec2024/).
+\[10/14/2024\] I am presenting our paper, [Designing an Intervention Tool for End-User Algorithm Audits in Personalized Recommendation Systems](https://arxiv.org/abs/2409.13176) at [the 7th FAccTRec Workshop: Responsible Recommendation](https://facctrec.github.io/facctrec2024/).
 
 \[09/19/2024\] Very excited to join the Berkman Klein Center as a [2024-25 Fellow](https://cyber.harvard.edu/people/qunfang-wu)!
 

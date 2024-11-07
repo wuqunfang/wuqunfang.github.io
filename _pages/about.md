@@ -12,7 +12,7 @@ I am a postdoc fellow at the [Inequality in America Initiative](https://inequali
 
 I received my Ph.D. in Information Science and Technology from the School of Information Studies at Syracuse University, advised by Dr. [Bryan Semaan](https://www.colorado.edu/faculty/semaan/). I earned my B.S. in Information Management and System and M.S. in Information Science from Peking University in 2014 and 2016. I also minored in Economics in the National School of Development at Peking University.
 
-My research spans the areas of Human-Computer Interaction (HCI), social justice, and human-centered AI. My work strives to challenge how socio-technical systems are built to enable and propagate inequalities while advocating for design justice perspectives and practices that reshape these systems. My work has been published in places of the ACM Conference on Human Factors in Computing Systems (CHI), the ACM Human-Computer Interaction (CSCW), the ACM Transactions on Computer-Human Interaction (TOCHI), the ACM Transactions on Social Computing (TSC), and the International Conference on Digital Government Research (DG.O).
+My research spans the areas of human-computer interaction (HCI), social justice, and human-centered AI. My work strives to challenge how socio-technical systems are built to enable and propagate inequalities while advocating for design justice perspectives and practices that reshape these systems. My work has been published in places of the ACM Conference on Human Factors in Computing Systems (CHI), the ACM Human-Computer Interaction (CSCW), the ACM Transactions on Computer-Human Interaction (TOCHI), the ACM Transactions on Social Computing (TSC), and the International Conference on Digital Government Research (DG.O).
 
 <!-- Qunfang’s dissertation “Conversations About Crime: Re-Enforcing and Fighting Against Platformed Racism on Reddit” unpacked how Reddit users engaged in discourse frames that both re-enforce and fight against racism, and the interactions and moderation on Reddit were deeply mediated by and through overt and covert racist ideologies. Her recent work is documenting diverse forms and scales of resistance, ranging from individual to institutional levels, and re-designing equitable systems that support end-user algorithm audits and promote transparent AI. Overall, her work contributes to epistemic resistance—providing empirical knowledge and design principles that inform how resistance can be designed and adapted across various contexts for researchers, practitioners, and policy makers.
 
@@ -20,13 +20,13 @@ Her work has been supported by NSF, the Google Research Scholar Program, the Ana
 
 News
 ======
-\[11/06/2024\] I am attending CSCW 2024 in San Jose, Costa Rica. Check out our paper, [Dismantling Gender Blindness in Online Discussion of a Crime/Gender Dichotomy](https://dl.acm.org/doi/abs/10.1145/3653686), which received a DEI recognition!
+<b>11/06/2024</b> I am attending CSCW 2024 in San Jose, Costa Rica. Check out our paper, [Dismantling Gender Blindness in Online Discussion of a Crime/Gender Dichotomy](https://dl.acm.org/doi/abs/10.1145/3653686), which received a DEI recognition!
 
-\[10/14/2024\] I am presenting our paper, [Designing an Intervention Tool for End-User Algorithm Audits in Personalized Recommendation Systems](https://arxiv.org/abs/2409.13176) at [the 7th FAccTRec Workshop: Responsible Recommendation](https://facctrec.github.io/facctrec2024/).
+<b>10/14/2024</b> I am presenting our paper, [Designing an Intervention Tool for End-User Algorithm Audits in Personalized Recommendation Systems](https://arxiv.org/abs/2409.13176) at [the 7th FAccTRec Workshop: Responsible Recommendation](https://facctrec.github.io/facctrec2024/).
 
-\[09/19/2024\] Very excited to join the Berkman Klein Center for Internet & Society at Harvard as a [2024-25 Fellow](https://cyber.harvard.edu/people/qunfang-wu)!
+<b>09/19/2024</b> Very excited to join the Berkman Klein Center for Internet & Society at Harvard as a [2024-25 Fellow](https://cyber.harvard.edu/people/qunfang-wu)!
 
-\[05/09/2024\] I will present our papers at CHI 2025: [Negotiating Sociotechnical Boundaries: Moderation Work to Counter Racist Attacks in Online Communities](https://dl.acm.org/doi/full/10.1145/3613904.3642688) and [Malicious selling strategies in livestream E-commerce: A case study of alibaba’s taobao and ByteDance’s TikTok](https://dl.acm.org/doi/abs/10.1145/3577199). 
+<b>05/09/2024</b> I will present our papers at CHI 2025: [Negotiating Sociotechnical Boundaries: Moderation Work to Counter Racist Attacks in Online Communities](https://dl.acm.org/doi/full/10.1145/3613904.3642688) and [Malicious selling strategies in livestream E-commerce: A case study of alibaba’s taobao and ByteDance’s TikTok](https://dl.acm.org/doi/abs/10.1145/3577199). 
 
 <!-- Join us for the [Symposium on Misinformation & Marginalization](https://citap.unc.edu/news/call-for-papers-symposium-on-misinformation-marginalization/), taking place at the University of North Carolina at Chapel Hill on October 16, 2023. Paper proposals is due on June 30. \[05/30/2023\]
 

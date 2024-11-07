@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-I see myself as a technological activist researcher, dedicated to empowering marginalized populations by including their voices in the understanding, critique, design, and development of equitable technologies. 
+I see myself as a technological activist researcher, dedicated to empowering marginalized populations by including their voices in the understanding, critique, and design of equitable technologies. 
 
 Methodologically, I employ both qualitative (e.g., interview, ethnography, critical discourse analysis) and quantitative methods (e.g., survey, regression, topic modeling) to understand user behaviors across challenging contexts such as public safety, online racist discourses, and deceptive design in livestreaming. I also incorporate system design methods and principles from HCI to further inform my work. 
 

@@ -29,7 +29,7 @@ Teaching Assistant, Syracuse University, Fall 2019.
 
 Teaching Assistant, Syracuse University, Fall 2017.
 
-<b>Demystifying the Chinese Economy</b>
+<b>Special Topics: China’s Economy</b>
 
 Teaching Assistant, Peking University, Spring 2014. 
 

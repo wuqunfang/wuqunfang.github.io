@@ -18,8 +18,6 @@ Qunfang’s dissertation “Conversations About Crime: Re-Enforcing and Fighting
 
 <!-- Her work has been supported by NSF, the Google Research Scholar Program, the AnalytiXIN Initiative, Yahoo! through the InMind project, and J.P. Morgan. -->
 
-<embed width='600' height='180' src='https://embed.howtopronounce.com/classic/en/Qunfang/31088432'>
-
 News
 ======
 \[11/06/2024\] I am attending CSCW 2024 in San Jose, Costa Rica. Check out our paper, [Dismantling Gender Blindness in Online Discussion of a Crime/Gender Dichotomy](https://dl.acm.org/doi/abs/10.1145/3653686), which received a DEI recognition!

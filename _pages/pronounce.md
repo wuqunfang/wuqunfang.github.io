@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "How To Say My Name"
-permalink: /portfolio/
+permalink: /pronounce/
 author_profile: true
 ---
 

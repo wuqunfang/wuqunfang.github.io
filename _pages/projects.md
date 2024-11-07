@@ -5,21 +5,20 @@ permalink: /projects/
 author_profile: true
 ---
 
-I see myself as a technological activist researcher, dedicated to empowering marginalized populations by including their voices in the understanding, critique, design, and development of equitable technologies. My work has examined harms such as online racist discourses and governance, while documenting diverse forms and scales of resistance, ranging from individual to institutional levels. My work contributes to epistemic resistance, providing empirical knowledge and design principles that inform how resistance can be designed and adapted across various contexts for researchers, practitioners, and policymakers. 
+I see myself as a technological activist researcher, dedicated to empowering marginalized populations by including their voices in the understanding, critique, design, and development of equitable technologies. 
 
-<!-- Project 1 -->
-<div style="display: flex; align-items: flex-start; margin-bottom: 30px; border-bottom: 1px dashed #ccc; padding-bottom: 15px;">
-  <div style="width: 150px; min-width: 150px; max-height: 100px;">
-    <img src="/images/reddit.jpg" style="width: 100%; height: auto;">
-    <p style="font-size: 0.8em; text-align: center; margin-top: 5px;">
-      <a href="https://www.theatlantic.com/technology/archive/2020/06/reddit-racism-open-letter/612958/" target="_blank">Image source: The Atlantic</a>
-    </p>
-  </div>
-  <div style="margin-left: 20px;">
-    <h3 style="margin-top: 0;">Countering “Platformed Racism” in Online Communities</h3>
-    <p>My dissertation work unpacked how Reddit users engaged in discourse frames that both re-enforce and fight against racism, and the interactions and moderation on Reddit were deeply mediated by and through overt and covert racist ideologies.</p>
-  </div>
-</div>
+### Countering “Platformed Racism” in Online Communities
+
+My dissertation work unpacked how Reddit users engaged in discourse frames that both re-enforce and fight against racism, and the interactions and moderation on Reddit were deeply mediated by and through overt and covert racist ideologies.
+
+### Designing for Individual and Institutional Algorithmic Resistance
+
+My research documents diverse forms and scales of resistance, ranging from individual to institutional levels. These works contribute to epistemic resistance, including empirical knowledge and design principles, that inform how resistance can be designed and adapted to more socio-technical systems.
+
+### Supporting End-User Algorithm Audits
+
+Our team has developed an intervention tool, MapMyFeed, to assist everyday users in navigating the auditing process. The tool offers educational resources to help users understand the mechanics of algorithmic recommendations and enables them to identify and report problematic or biased algorithmic behaviors. Users’ proactive involvement fosters algorithmic literacy and transparency and more equitable digital environments.
+
 
 ---
 <!--

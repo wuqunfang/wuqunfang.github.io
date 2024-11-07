@@ -11,7 +11,7 @@ Methodologically, I employ both qualitative (e.g., interview, ethnography, criti
 
 My research engages with critical studies and theories, such as new racism, intersectionality, feminism, and design justice. I use these frameworks as productive lenses for unpacking power dynamics and preventing the perpetuation of power imbalances in research activities. 
 
-<div class="project" style="margin-bottom: 30px;">
+<div class="project" style="margin-bottom: 60px;">
     <img src="/images/reddit.jpg" alt="" style="width: 200px; height: 150px; object-fit: cover; margin-right: 20px; float: left;">
     <div class="project-info">
         <h3>Countering “Platformed Racism” in Online Communities</h3>
@@ -19,7 +19,7 @@ My research engages with critical studies and theories, such as new racism, inte
     </div>
 </div>
 
-<div class="project" style="margin-bottom: 30px;">
+<div class="project" style="margin-bottom: 60px;">
     <img src="/images/resistance.jpg" alt="" style="width: 200px; height: 150px; object-fit: cover; margin-right: 20px; float: left;">
     <div class="project-info">
         <h3>Designing for Individual and Institutional Algorithmic Resistance</h3>
@@ -27,7 +27,7 @@ My research engages with critical studies and theories, such as new racism, inte
     </div>
 </div>
 
-<div class="project" style="margin-bottom: 30px;">
+<div class="project" style="margin-bottom: 60px;">
     <img src="/images/feed.jpg" alt="" style="width: 200px; height: 150px; object-fit: cover; margin-right: 20px; float: left;">
     <div class="project-info">
         <h3>Supporting End-User Algorithm Audits</h3>

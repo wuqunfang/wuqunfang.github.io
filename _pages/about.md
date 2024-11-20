@@ -20,6 +20,8 @@ Her work has been supported by NSF, the Google Research Scholar Program, the Ana
 
 News
 ======
+<b>11/19/2024</b> I am giving a talk on “Designing for Social Equity in Socio-Technical Systems” at the [Young Achievers Symposium](https://csrai.psu.edu/initiatives/young-achievers), hosted by the Center for Socially Responsible Artificial Intelligence at Pennsylvania State University.
+
 <b>11/06/2024</b> I am attending CSCW 2024 in San Jose, Costa Rica. Check out our paper, [Dismantling Gender Blindness in Online Discussion of a Crime/Gender Dichotomy](https://dl.acm.org/doi/abs/10.1145/3653686), which received a DEI recognition!
 
 <b>10/14/2024</b> I am presenting our paper, [Designing an Intervention Tool for End-User Algorithm Audits in Personalized Recommendation Systems](https://arxiv.org/abs/2409.13176) at [the 7th FAccTRec Workshop: Responsible Recommendation](https://facctrec.github.io/facctrec2024/).

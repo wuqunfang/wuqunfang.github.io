@@ -20,6 +20,8 @@ Her work has been supported by NSF, the Google Research Scholar Program, the Ana
 
 News
 ======
+<b>01/17/2025</b> Our three papers on Red and Reddit has been accepted to CHI 2025! Stay tuned for more details, and see you at CHI 2025.
+
 <b>11/19/2024</b> I am giving a talk on “Designing for Social Equity in Socio-Technical Systems” at the [Young Achievers Symposium](https://csrai.psu.edu/initiatives/young-achievers), hosted by the Center for Socially Responsible Artificial Intelligence at Pennsylvania State University.
 
 <b>11/06/2024</b> I am attending CSCW 2024 in San Jose, Costa Rica. Check out our paper, [Dismantling Gender Blindness in Online Discussion of a Crime/Gender Dichotomy](https://dl.acm.org/doi/abs/10.1145/3653686), which received a DEI recognition!

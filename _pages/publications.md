@@ -9,6 +9,13 @@ author_profile: true
 Please refer to my [Google Scholar](https://scholar.google.com/citations?user=8m1Q-voAAAAJ&hl=en&oi=ao) for the most recent updates on publications.
 
 
+Li, Wenqi, Jui-Ching Kuo, Manyu Sheng, Pengyi Zhang, and Qunfang Wu. "Beyond Explicit and Implicit: How Users Provide Feedback to Shape Personalized Recommendation Content." 2025. (Accepted by
+CHI2025)
+
+Wan, Ruyuan, Lingbo Tong, Tiffany Knearem, Toby Jia-Jun Li, Ting-Hao Kenneth Huang, and Qunfang Wu. "Hashtag Re-appropriation For Audience Control on Recommendation-driven Social Media Xiaohongshu." 2025. (Accepted by CHI2025)
+
+Chen, Qijia, Qunfang Wu, and Giulio Jacucci. "Democratic Moderation: Exploring the Use and Perception of Votekicking in Social Virtual Reality." 2025. (Accepted by CHI2025)
+
 Wu, Qunfang and Lu Xian. “Designing an Intervention Tool for End-User Algorithm Audits in Personalized Recommendation Systems”. In: The 7th FAccTRec Workshop: Responsible Recommendation. 2024. [🔗](https://arxiv.org/abs/2409.13176) <!--[📑](https://arxiv.org/abs/2409.13176)-->
 
 Wu, Qunfang, Tayara Romero, and Bryan Semaan. "Negotiating Sociotechnical Boundaries: Moderation Work to Counter Racist Attacks in Online Communities." In Proceedings of the CHI Conference on Human Factors in Computing Systems, pp. 1-15. 2024. [🔗](https://dl.acm.org/doi/full/10.1145/3613904.3642688)
